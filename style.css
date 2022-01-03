@@ -11,36 +11,14 @@ body{
 .note{
     color: black;
 }
-.div_speed{
-    float: left;
-}
-.speed_img{
-    width: 200px;
-    border-radius: 100px;
-}
-#speed{
-    font-size: 23px;
-    margin: 15px;
-}
-.div_volume{
-    float: right;
-}
-.volume_img{
-    width: 200px;
-    border-radius: 100px;
-}
-#volume{
-    font-size: 23px;
-    margin: 15px;
-}
 .button_song_name{
     background-color: #E8CEE4;
     font-size: 20px;
     outline: none;
 }
 canvas{
-    background-color: white;
-    border: 5px solid white;
+    background-color: pink;
+    border: 5px solid purple;
     border-radius: 20px;
     box-shadow: 5px 5px 5px #FDE2FF;
 }
